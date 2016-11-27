@@ -1,16 +1,17 @@
 # List of my favorite deep learning papers
 
 Rough list of my favorite deep learning research papers, useful for revisiting topics or for reference.
-Papers are organised in logical reading order (not publication order).
 
 
-## Core knowledge
+## Various
+
+- [Neural Turing Machines](https://arxiv.org/pdf/1410.5401v2.pdf)
 
 
-
-## Language modeling
+## Language
 
 - [Exploring the Limits of Language Modeling](https://arxiv.org/pdf/1602.02410.pdf)
+- [Teaching Machines to Read and Comprehend](https://arxiv.org/pdf/1506.03340v3.pdf)
 
 
 ## Vision
