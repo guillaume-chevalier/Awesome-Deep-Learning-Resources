@@ -5,6 +5,7 @@ Rough list of my favorite deep learning research papers, useful for revisiting t
 
 ## Various
 
+- [Exploring the Depths of Recurrent Neural Networks with Stochastic Residual Learning](https://cs224d.stanford.edu/reports/PradhanLongpre.pdf)
 - [Neural Turing Machines](https://arxiv.org/pdf/1410.5401v2.pdf)
 
 
