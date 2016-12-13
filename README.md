@@ -14,6 +14,7 @@ with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-lear
 - [Neural Turing Machines](https://arxiv.org/pdf/1410.5401v2.pdf) (Outstanding for implementing simple neural algorithms with seemingly good generalisation)
 - [Teaching Machines to Read and Comprehend](https://arxiv.org/pdf/1506.03340v3.pdf) (A very interesting and creative work about textual question answering, there is something to do with that)
 - [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf) (Nice for photoshop-like "content aware fill" to fill missing patches in images)
+- [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) (Epic raw voice/music generation with new architectures based on dilated causal convolutions to capture more audio lenght)
 
 
 ## Convolutional Neural Networks
@@ -21,7 +22,7 @@ with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-lear
 - [What is the Best Multi-Stage Architecture for Object Recognition?](http://yann.lecun.com/exdb/publis/pdf/jarrett-iccv-09.pdf) (For the use of "local contrast normalization")
 - [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf) (AlexNet, 2012 ILSVRC, breakthrough of the ReLU activation function)
 - [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901v3.pdf) (For the "deconvnet layer")
-- [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556v6.pdf) (For the idea of stacking multiple 3x3 conv+ReLU before pooling for a bigger filter size with few parameters, also there is a nice table for "ConvNet Configuration")
+- [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556v6.pdf) (For the idea of stacking multiple 3x3 conv+ReLU before pooling for a bigger filter size with few parameters, also there is a nice table for "ConvNet Configuration")
 - [Going Deeper with Convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) (GoogLeNet: Appearance of "Inception" layers/modules, the idea is of parallelizing conv layers into many mini-conv of different size with "same" padding, concatenated on depth)
 - [Highway Networks](https://arxiv.org/pdf/1505.00387v2.pdf) (Highway networks: residual connections)
 - [Batch Normalization: Accelerating Deep Network Training b
