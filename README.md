@@ -14,7 +14,6 @@ with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-lear
 - [Neural Turing Machines](https://arxiv.org/pdf/1410.5401v2.pdf) (Outstanding for implementing simple neural algorithms with seemingly good generalisation)
 - [Teaching Machines to Read and Comprehend](https://arxiv.org/pdf/1506.03340v3.pdf) (A very interesting and creative work about textual question answering, there is something to do with that)
 - [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf) (Nice for photoshop-like "content aware fill" to fill missing patches in images)
-- [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) (Epic raw voice/music generation with new architectures based on dilated causal convolutions to capture more audio lenght)
 
 
 ## Convolutional Neural Networks
@@ -29,3 +28,4 @@ with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-lear
 y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) (Batch normalization (BN): to normalize a layer's output by also summing over the entire batch, and then performing a linear rescaling and shifting of a certain trainable amount)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf) (Very deep residual layers with batch normalization layers - a.k.a. "how to overfit any vision dataset with too many layers")
 - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261v2.pdf) (For improving GoogLeNet with residual connections)
+- [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) (Epic raw voice/music generation with new architectures based on dilated causal convolutions to capture more audio lenght)
