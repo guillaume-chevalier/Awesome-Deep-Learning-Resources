@@ -14,6 +14,7 @@ with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-lear
 - [Neural Turing Machines](https://arxiv.org/pdf/1410.5401v2.pdf) (Outstanding for implementing simple neural algorithms with seemingly good generalisation)
 - [Teaching Machines to Read and Comprehend](https://arxiv.org/pdf/1506.03340v3.pdf) (A very interesting and creative work about textual question answering, there is something to do with that)
 - [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf) (Nice for photoshop-like "content aware fill" to fill missing patches in images)
+- [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/pdf/1603.08983v4.pdf) (Very interesting, I would love to see how well would it combines to Neural Turing Machines. Interesting interactive visualizations on the subject can be found [here](http://distill.pub/2016/augmented-rnns/).)
 
 
 ## Convolutional Neural Networks
