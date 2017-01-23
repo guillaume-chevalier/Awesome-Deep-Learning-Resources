@@ -31,3 +31,4 @@ y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) (Ba
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf) (Very deep residual layers with batch normalization layers - a.k.a. "how to overfit any vision dataset with too many layers")
 - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261v2.pdf) (For improving GoogLeNet with residual connections)
 - [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) (Epic raw voice/music generation with new architectures based on dilated causal convolutions to capture more audio lenght)
+- [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) (3D-GAN for 3D model generation and fun 3D furniture embedding arithmetics)
