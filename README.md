@@ -3,7 +3,7 @@
 Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully.
 
 > ## Why is it awesome?
->>> Discover by yourself now and explore why on [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming)
+>> Discover by yourself now and explore why on [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming)
 
 > Moores Law about exponential progress rates in computer science hardware is now more affecting GPUs than CPUs because of physical limits and will slowly shift toward parallel architectures
 [[read more](https://www.quora.com/Does-Moores-law-apply-to-GPUs-Or-only-CPUs)]. Deep learning exploits such architecture under the hood.
@@ -99,7 +99,7 @@ y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) (Ba
 
 ## YouTube
 
-- [(Deep Learning & Machine Learning (Advanced topics)](https://www.youtube.com/playlist?list=PLlp-GWNOd6m4C_-9HxuHg2_ZeI2Yzwwqt) (Awesome videos)
+- [Deep Learning & Machine Learning (Advanced topics)](https://www.youtube.com/playlist?list=PLlp-GWNOd6m4C_-9HxuHg2_ZeI2Yzwwqt) (Awesome videos)
 - [Tensor Calculus and the Calculus of Moving Surfaces](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) (Generalize properly how Tensors work, yet watching a few videos helps)
 - [Signal Processing YouTube Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) (A YouTube playlist I composed about DFT/FFT, STFT and the Laplace transform - I was mad about my software engineering bachelor not including signal processing classes)
 - [Computer Science](https://www.youtube.com/playlist?list=PLlp-GWNOd6m7vLOsW20xAJ81-65C-Ys6k) (Yet another YouTube playlist I composed, this time about various CS topics just slightly related)
