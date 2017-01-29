@@ -8,21 +8,6 @@ Rough list of my favorite deep learning resources, useful for revisiting topics 
 > Moores Law about exponential progress rates in computer science hardware is now more affecting GPUs than CPUs because of physical limits and will slowly shift toward parallel architectures
 [[read more](https://www.quora.com/Does-Moores-law-apply-to-GPUs-Or-only-CPUs)]. Deep learning exploits such architecture under the hood.
 
-## Math Theory
-
-### Backpropagation
-
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html) (Overview)
-- [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.mr5wq61fb) (Exposing backprop's caveats)
-
-### Complex Numbers & Digital Signal Processing
-- [Filtering signal, plotting the STFT and the Laplace transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) (Simple demo of mine on signal processing)
-- [Window Functions](https://en.wikipedia.org/wiki/Window_function) (Interesting Wikipedia page listing known window functions)
-- [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) (New look on Fourier analysis)
-- [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) (Very interesting animations dealing with complex numbers and wave equations)
-- [Animate Your Way to Glory, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory/) (Look on convergence methods in physic engines and interaction design)
-- [Animate Your Way to Glory - Part II, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory-pt2/) (Nice animations for rotation and rotation interpolation with Quaternions)
-
 
 ## Online classes
 
@@ -62,6 +47,23 @@ Rough list of my favorite deep learning resources, useful for revisiting topics 
 - [SQuAD
 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) (Interesting QA dataset)
 - [Aligned Hansards of the 36th Parliament of Canada](http://www.isi.edu/natural-language/download/hansard/) (Aligned text chunks useful for FR-EN machine translation)
+
+
+## Math Theory
+
+### Backpropagation
+
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html) (Overview)
+- [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.mr5wq61fb) (Exposing backprop's caveats)
+
+### Complex Numbers & Digital Signal Processing
+- [Filtering signal, plotting the STFT and the Laplace transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) (Simple demo of mine on signal processing)
+- [Window Functions](https://en.wikipedia.org/wiki/Window_function) (Interesting Wikipedia page listing known window functions)
+- [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) (New look on Fourier analysis)
+- [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) (Very interesting animations dealing with complex numbers and wave equations)
+- [Animate Your Way to Glory, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory/) (Look on convergence methods in physic engines and interaction design)
+- [Animate Your Way to Glory - Part II, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory-pt2/) (Nice animations for rotation and rotation interpolation with Quaternions)
+
 
 ## Papers
 
