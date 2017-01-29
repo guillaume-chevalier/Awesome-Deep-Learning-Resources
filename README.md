@@ -1,6 +1,6 @@
 # List of awesome deep learning resources ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully.
+Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I (Guillaume Chevalier) have got through all of the content listed there, carefully, and built this list.
 
 > ## Why is it awesome?
 >> Discover by yourself now and explore why on [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming)
