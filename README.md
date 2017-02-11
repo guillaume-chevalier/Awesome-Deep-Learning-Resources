@@ -12,9 +12,16 @@ Rough list of my favorite deep learning resources, useful for revisiting topics 
 ## Online classes
 
 - [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) (Good entry-level online class with [certificate](https://www.coursera.org/account/accomplishments/verify/DXPXHYFNGKG3). Taught by: Andrew Ng, Associate Professor, Stanford University; Chief Scientist, Baidu; Chairman and Co-founder, Coursera)
-- [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) (Very interesting class available online for free by Hugo Larochelle)
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) (Very good class covering high-level deep learning concepts, it is the logical next step after Andrew Ng's Machine Learning class)
 - [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501) (Interesting class for acquiring basic knowledge of machine learning applied to trading and some AI and finance concepts)
+- [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) (Very interesting class available online for free by Hugo Larochelle, yet I have watched a few of those videos)
+
+
+## Books
+
+- [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4) (The audio version is nice to listen to while commuting)
+- [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) (Outstanding, yet halfway through the book)
+- [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=10&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) (Some may be less related to deep learning but still somehow relevant)
 
 ## Posts and Articles
 
@@ -35,34 +42,49 @@ Rough list of my favorite deep learning resources, useful for revisiting topics 
 - [skflow](https://github.com/tensorflow/skflow) (TensorFlow wrapper à la scikit-learn)
 - [Keras](https://keras.io/) (Keras is another very intersting deep learning framework like TensorFlow)
 - [carpedm20's repositories](https://github.com/carpedm20) (Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim - A.K.A. carpedm20)
-- [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) (NTM TensorFlow implementation)
-- [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) (CNN vision transfer learning tutorial in TensorFlow from pretrained AlexNet 2012)
-- [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) (Tutorial of mine on using LSTMs on time series for classification)
+- [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) (Neural Turing Machine TensorFlow implementation)
+- [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) (Transfer learning tutorial in TensorFlow for vision from high-level embeddings of a pretrained CNN, AlexNet 2012)
+- [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) (Tutorial of mine on using LSTMs on time series for classification)
+- [Deep residual bidirectional LSTM for HAR](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) (Improvements on the previous project)
 - [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc&page=1&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn&sort=stars&tab=stars&utf8=%E2%9C%93) (GitHub is full of nice code samples & projects)
 
 ### Some Datasets
+
+Those are resources I have found that seems interesting to develop models onto.
 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) (TONS of datasets for ML)
 - [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) (Could be used for a chatbot)
 - [SQuAD
 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) (Interesting QA dataset)
 - [Aligned Hansards of the 36th Parliament of Canada](http://www.isi.edu/natural-language/download/hansard/) (Aligned text chunks useful for FR-EN machine translation)
+- [LibriSpeech ASR corpus](http://www.openslr.org/12/) (Huge free English speech dataset with balanced genders and speakers that seems to be of high quality)
 
 
-## Math Theory
+## Other Math Theory
 
-### Backpropagation
+### Gradient Descent Algorithms and optimization
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html) (Overview)
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.mr5wq61fb) (Exposing backprop's caveats)
+- [Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs](https://www.youtube.com/watch?v=56TYLaQN4N8) (Unfolding of the RNN graphs is explained properly and expose potential problems about gradient descent algorithms)
+- [Gradient descent algorithms in a saddle point](http://sebastianruder.com/content/images/2016/09/saddle_point_evaluation_optimizers.gif) (Interesting image)
+- [Gradient descent algorithms in an almost flat landscape](https://devblogs.nvidia.com/wp-content/uploads/2015/12/NKsFHJb.gif) (Complementary interesting image to the previous one)
+- [Gradient Descent](https://www.youtube.com/watch?v=eikJboPQDT0) (Okay, I already listed Andrew NG's Coursera class above, but this video is quite pertinent)
+- [Gradient Descent: Intuition](https://www.youtube.com/watch?v=Fn8qXpIcdnI) (continued)
+- [Gradient Descent in Practice 2: Learning Rate](https://www.youtube.com/watch?v=4WGK1GrFYd8&list=PLLH73N9cB21V_O2JqILVX557BST2cqJw4&index=22) (continued - adjusting learning rate)
+- [The Problem of Overfitting](https://www.youtube.com/watch?v=Tl5JB5EuU5o&list=PLLH73N9cB21V_O2JqILVX557BST2cqJw4&index=40) (continued - intro to overfitting)
+- [Diagnosing Bias vs Variance](https://www.youtube.com/watch?v=ewogYw5oCAI) (continued - heuristics for optimizing)
 
 ### Complex Numbers & Digital Signal Processing
-- [Filtering signal, plotting the STFT and the Laplace transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) (Simple demo of mine on signal processing)
+
+Okay, signal processing might not be directly related to deep learning, but studying it is interesting for have better intuition for developing neural architectures based on signal.
+
 - [Window Functions](https://en.wikipedia.org/wiki/Window_function) (Interesting Wikipedia page listing known window functions)
 - [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) (New look on Fourier analysis)
 - [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) (Very interesting animations dealing with complex numbers and wave equations)
 - [Animate Your Way to Glory, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory/) (Look on convergence methods in physic engines and interaction design)
 - [Animate Your Way to Glory - Part II, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory-pt2/) (Nice animations for rotation and rotation interpolation with Quaternions)
+- [Filtering signal, plotting the STFT and the Laplace transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) (Simple Python demo on signal processing)
 
 
 ## Papers
@@ -106,7 +128,7 @@ y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) (Ba
 - [Signal Processing YouTube Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) (A YouTube playlist I composed about DFT/FFT, STFT and the Laplace transform - I was mad about my software engineering bachelor not including signal processing classes)
 - [Computer Science](https://www.youtube.com/playlist?list=PLlp-GWNOd6m7vLOsW20xAJ81-65C-Ys6k) (Yet another YouTube playlist I composed, this time about various CS topics just slightly related)
 - [Siraj's YouTube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) (Siraj has some entertaining videos)
-- [Two Minute Papers' Youtube Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) (Interesting but very shallow overview of some papers, such as WaveNet)
+- [Two Minute Papers' Youtube Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) (Interesting but very shallow overview of some papers, for example about WaveNet or Neural Style Transfer)
 
 ## Misc. Hubs and Links
 
