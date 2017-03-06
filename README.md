@@ -3,10 +3,12 @@
 Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I (Guillaume Chevalier) have got through all of the content listed there, carefully, and built this list.
 
 > ## Why is it awesome?
->> Discover by yourself now and explore why on [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming)
+>> Discover by yourself now and explore how much it is awesome on [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming)
 
-> Moores Law about exponential progress rates in computer science hardware is now more affecting GPUs than CPUs because of physical limits and will slowly shift toward parallel architectures
-[[read more](https://www.quora.com/Does-Moores-law-apply-to-GPUs-Or-only-CPUs)]. Deep learning exploits such architecture under the hood.
+> Deep learning is the key that can make computers think more like humans and has a lot of potential. Some hard automation tasks can be solved easily with that while this was impossible to achieve with classical algorithms.
+> The key of intelligence and cognition is a very interesting subject to explore and is not yet well understood.
+> Moreover, Moores Law about exponential progress rates in computer science hardware is now more affecting GPUs than CPUs because of physical limits and will slowly shift toward parallel architectures
+[[read more](https://www.quora.com/Does-Moores-law-apply-to-GPUs-Or-only-CPUs)]. Deep learning exploits parallel architectures under the hood by using GPUs. On top of that, deep learning algorithms may be applied to Quantum Computing.
 
 
 ## Online classes
@@ -66,6 +68,7 @@ The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explo
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html) (Overview)
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.mr5wq61fb) (Exposing backprop's caveats)
+- [Artificial Neural Networks: Mathematics of Backpropagation](http://briandolhansky.com/blog/2013/9/27/artificial-neural-networks-backpropagation-part-4) (Picturing backprop mathematically)
 - [Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs](https://www.youtube.com/watch?v=56TYLaQN4N8) (Unfolding of the RNN graphs is explained properly and expose potential problems about gradient descent algorithms)
 - [Gradient descent algorithms in a saddle point](http://sebastianruder.com/content/images/2016/09/saddle_point_evaluation_optimizers.gif) (Interesting image)
 - [Gradient descent algorithms in an almost flat landscape](https://devblogs.nvidia.com/wp-content/uploads/2015/12/NKsFHJb.gif) (Complementary interesting image to the previous one)
@@ -134,6 +137,6 @@ y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) (Ba
 
 - [Quora.com](https://www.quora.com/) (Finest question/answer site)
 - [Hacker News](https://news.ycombinator.com/news) (Maybe how I discovered ML - Interesting trends appear on that site way before they get to be a big deal)
-- [DataTau](http://www.datatau.com/) (A hub similar to Hacker News but specific to data science)
-- [Naver](http://www.naver.com/) (Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning results and comprehensible advanced math content shows up more easily there than on Google search)
+- [DataTau](http://www.datatau.com/) (A hub similar to Hacker News, but specific to data science)
+- [Naver](http://www.naver.com/) (Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search)
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) (arXiv browser with TF/IDF features)
