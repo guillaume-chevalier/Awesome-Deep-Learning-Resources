@@ -96,6 +96,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 
 - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/pdf/1404.7828v4.pdf) (You_Again's DL summary, mostly about RNNs)
 - [Bidirectional Recurrent Neural Networks](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf) (Better classifications with RNNs!)
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf) (A.K.A. "Attention mechanism")
 - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078v3.pdf) (Two networks in one combined into a seq2seq (sequence to sequence) Encoder–Decoder architecture. RNN Encoder–Decoder with 1000 hidden units. Adadelta optimizer.)
 - [Sequence to Sequence Learning
 with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) (4 stacked LSTM cells of 1000 hidden size with reversed input sentences, and with beam search, on the WMT’14 English to French dataset)
