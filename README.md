@@ -2,13 +2,21 @@
 
 Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I (Guillaume Chevalier) have got through all of the content listed there, carefully, and built this list.
 
-> ## Why is it awesome?
->> Discover by yourself now and explore how much it is awesome on [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming)
+## Trends
 
-> Deep learning is the key that can make computers think more like humans and has a lot of potential. Some hard automation tasks can be solved easily with that while this was impossible to achieve with classical algorithms.
-> The key of intelligence and cognition is a very interesting subject to explore and is not yet well understood.
-> Moreover, Moores Law about exponential progress rates in computer science hardware is now more affecting GPUs than CPUs because of physical limits and will slowly shift toward parallel architectures
-[[read more](https://www.quora.com/Does-Moores-law-apply-to-GPUs-Or-only-CPUs)]. Deep learning exploits parallel architectures under the hood by using GPUs. On top of that, deep learning algorithms may be applied to Quantum Computing.
+Here are the all-time [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming), from 2004 up to now, April 2017:
+<p align="center">
+  <img src="google_trends.png" />
+</p>
+
+You might also want to look at Andrej Karpathy's [new post](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106) about trends in Machine Learning research.
+
+I believe that Deep learning is the key that can make computers think more like humans and has a lot of potential. Some hard automation tasks can be solved easily with that while this was impossible to achieve earlier with classical algorithms.
+
+Moore's Law about exponential progress rates in computer science hardware is now more affecting GPUs than CPUs because of physical limits on how tiny an atomic transistor can be. We are shifting toward parallel architectures
+[[read more](https://www.quora.com/Does-Moores-law-apply-to-GPUs-Or-only-CPUs)]. Deep learning exploits parallel architectures as such under the hood by using GPUs. On top of that, deep learning algorithms may be applied to Quantum Computing.
+
+The key of intelligence and cognition is a very interesting subject to explore and is not yet well understood. 
 
 
 ## Online classes
