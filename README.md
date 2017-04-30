@@ -44,6 +44,7 @@ The key of intelligence and cognition is a very interesting subject to explore a
 - [Improving Inception and Image Classification in TensorFlow](https://research.googleblog.com/2016/08/improving-inception-and-image.html) (Very interesting CNN architecture)
 - [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) (Realistic talking machines)
 - [François Chollet's Twitter](https://twitter.com/fchollet) (Author of Keras - has interesting Twitter posts)
+- [Neuralink and the Brain’s Magical Future](http://waitbutwhy.com/2017/04/neuralink.html) (Very worth reading.)
 
 ## Practical resources
 
