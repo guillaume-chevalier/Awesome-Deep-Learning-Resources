@@ -1,6 +1,9 @@
-# Awesome List of Deep Learning Resources ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome Deep Learning Resources ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I (Guillaume Chevalier) have got through all of the content listed there, carefully, and built this list.
+This is a rough list of my favorite deep learning resources, useful for revisiting topics or for reference.
+I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.
+
+_To make your own personalized awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully._
 
 
 ## Table Of Contents
@@ -20,6 +23,7 @@ Rough list of my favorite deep learning resources, useful for revisiting topics 
   - [Convolutional Neural Networks](#convolutional-neural-networks)
 - [YouTube](#youtube)
 - [Misc. Hubs and Links](#misc-hubs-and-links)
+- [Contributing](#contributing)
 
 <a name="trends" />
 
@@ -42,7 +46,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 <a name="online-classes" />
 
-## Online classes
+## Online Classes
 
 - [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) - Good entry-level online class with [certificate](https://www.coursera.org/account/accomplishments/verify/DXPXHYFNGKG3). Taught by: Andrew Ng, Associate Professor, Stanford University; Chief Scientist, Baidu; Chairman and Co-founder, Coursera
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Very good class covering high-level deep learning concepts, it is the logical next step after Andrew Ng's Machine Learning class
@@ -75,7 +79,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 <a name="practical-resources" />
 
-## Practical resources
+## Practical Resources
 
 <a name="librairies-and-implementations" />
 
@@ -111,7 +115,7 @@ The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explo
 
 <a name="gradient-descent-algorithms-and-optimization" />
 
-### Gradient Descent Algorithms and optimization
+### Gradient Descent Algorithms & Optimization Theory
 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html) - Overview
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.mr5wq61fb) - Exposing backprop's caveats
@@ -195,10 +199,16 @@ y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) - B
 
 <a name="misc-hubs-and-links" />
 
-## Misc. Hubs and Links
+## Misc. Hubs & Links
 
 - [Quora.com](https://www.quora.com/) - Finest question/answer site
 - [Hacker News](https://news.ycombinator.com/news) - Maybe how I discovered ML - Interesting trends appear on that site way before they get to be a big deal
 - [DataTau](http://www.datatau.com/) - A hub similar to Hacker News, but specific to data science
 - [Naver](http://www.naver.com/) - Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features
+
+<a name="contributing" />
+
+## Contributing (new)
+
+_To make your own awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully. I might then link to your list right here in this [Contributing](#contributing) section, provided that you follow the guidelines._
