@@ -1,12 +1,12 @@
 # Awesome Deep Learning Resources ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-This is a rough list of my favorite deep learning resources, useful for revisiting topics or for reference.
+This is a rough list of my favorite deep learning resources. It has been useful to me for learning how to do deep learning, I use it for revisiting topics or for reference.
 I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.
 
-_To make your own personalized awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully._
+_To make your own personalized awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, please read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully._
 
 
-## Table Of Contents
+## Contents
 
 - [Trends](#trends)
 - [Online classes](#online-classes)
@@ -211,4 +211,4 @@ y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) - B
 
 ## Contributing (new)
 
-_To make your own awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully. I might then link to your list right here in this [Contributing](#contributing) section, provided that you follow the guidelines._
+_To make your own awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, please read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully. I might then link to your list right here in this [Contributing](#contributing) section, provided that you follow the guidelines._
