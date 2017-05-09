@@ -3,8 +3,6 @@
 This is a rough list of my favorite deep learning resources. It has been useful to me for learning how to do deep learning, I use it for revisiting topics or for reference.
 I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.
 
-_To make your own personalized awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, please read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully._
-
 
 ## Contents
 
@@ -23,7 +21,6 @@ _To make your own personalized awesome list (or to make a general list where eve
   - [Convolutional Neural Networks](#convolutional-neural-networks)
 - [YouTube](#youtube)
 - [Misc. Hubs and Links](#misc-hubs-and-links)
-- [Contributing](#contributing)
 
 <a name="trends" />
 
@@ -75,7 +72,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Improving Inception and Image Classification in TensorFlow](https://research.googleblog.com/2016/08/improving-inception-and-image.html) - Very interesting CNN architecture
 - [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) - Realistic talking machines
 - [François Chollet's Twitter](https://twitter.com/fchollet) - Author of Keras - has interesting Twitter posts
-- [Neuralink and the Brain’s Magical Future](http://waitbutwhy.com/2017/04/neuralink.html) - Very worth reading.
+- [Neuralink and the Brain’s Magical Future](http://waitbutwhy.com/2017/04/neuralink.html) - Thought provoking article about the future of the brain and brain-computer interfaces.
 
 <a name="practical-resources" />
 
@@ -206,9 +203,3 @@ y Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) - B
 - [DataTau](http://www.datatau.com/) - A hub similar to Hacker News, but specific to data science
 - [Naver](http://www.naver.com/) - Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features
-
-<a name="contributing" />
-
-## Contributing (new)
-
-_To make your own awesome list (or to make a general list where everyone can contribute to) on GitHub from this template, please read [contributing.md](https://github.com/guillaume-chevalier/awesome-deep-learning-resources/blob/master/contributing.md) carefully. I might then link to your list right here in this [Contributing](#contributing) section, provided that you follow the guidelines._
