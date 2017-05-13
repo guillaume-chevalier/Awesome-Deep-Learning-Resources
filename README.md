@@ -21,6 +21,7 @@ I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built thi
   - [Convolutional Neural Networks](#convolutional-neural-networks)
 - [YouTube](#youtube)
 - [Misc. Hubs and Links](#misc-hubs-and-links)
+- [License](#license)
 
 <a name="trends" />
 
@@ -202,3 +203,12 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [DataTau](http://www.datatau.com/) - This is a hub similar to Hacker News, but specific to data science
 - [Naver](http://www.naver.com/) - This is a Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features
+
+
+<a name="license" />
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.
