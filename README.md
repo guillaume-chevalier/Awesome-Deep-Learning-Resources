@@ -64,6 +64,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ## Posts and Articles
 
+- [Predictions made by Ray Kurzweil](https://en.wikipedia.org/wiki/Predictions_made_by_Ray_Kurzweil) - List of mid to long term futuristic predictions made by Ray Kurzweil
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - MUST READ post by Andrej Karpathy - this is what motivated me to learn RNNs, it demonstrates what it can achieve in the most basic form of NLP
 - [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) - Fresh look on how neurons map information
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Explains the LSTM cells' inner workings, plus, it has interesting links in conclusion
