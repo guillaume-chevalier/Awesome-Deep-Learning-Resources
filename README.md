@@ -75,6 +75,8 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) - Realistic talking machines: perfect voice generation
 - [François Chollet's Twitter](https://twitter.com/fchollet) - Author of Keras - has interesting Twitter posts and innovative ideas
 - [Neuralink and the Brain’s Magical Future](http://waitbutwhy.com/2017/04/neuralink.html) - Thought provoking article about the future of the brain and brain-computer interfaces.
+- [Migrating to Git LFS for Developing Deep Learning Applications with Large Files](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your private Git projects
+
 
 <a name="practical-resources" />
 
