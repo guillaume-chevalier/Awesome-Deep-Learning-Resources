@@ -131,6 +131,7 @@ The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explo
 - [The Problem of Overfitting](https://www.youtube.com/watch?v=u73PU6Qwl1I) - A good explanation of overfitting and how to address that problem
 - [Diagnosing Bias vs Variance](https://www.youtube.com/watch?v=ewogYw5oCAI) - Understanding bias and variance in the predictions of a neural net and how to address those problems
 - [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) - Appearance of the incredible SELU activation function
+- [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf) - RNN as an optimizer: introducing the L2L optimizer, a meta-neural network
 
 <a name="complex-numbers-and-digital-signal-processing" />
 
