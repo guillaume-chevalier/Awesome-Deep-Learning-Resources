@@ -130,6 +130,7 @@ The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explo
 - [Gradient Descent in Practice 2: Learning Rate](https://www.youtube.com/watch?v=gX6fZHgfrow) - How to adjust the learning rate of a neural network
 - [The Problem of Overfitting](https://www.youtube.com/watch?v=u73PU6Qwl1I) - A good explanation of overfitting and how to address that problem
 - [Diagnosing Bias vs Variance](https://www.youtube.com/watch?v=ewogYw5oCAI) - Understanding bias and variance in the predictions of a neural net and how to address those problems
+- [Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf) - Appearance of the incredible SELU activation function
 
 <a name="complex-numbers-and-digital-signal-processing" />
 
