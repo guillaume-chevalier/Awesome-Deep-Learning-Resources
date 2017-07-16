@@ -107,8 +107,8 @@ Those are resources I have found that seems interesting to develop models onto.
 - [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - This could be used for a chatbot
 - [SQuAD
 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset
-- [Aligned Hansards of the 36th Parliament of Canada](http://www.isi.edu/natural-language/download/hansard/) - Aligned text chunks that may be useful for FR-EN machine translation
 - [LibriSpeech ASR corpus](http://www.openslr.org/12/) - Huge free English speech dataset with balanced genders and speakers, that seems to be of high quality
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of public datasets
 
 
 <a name="other-math-theory" />
