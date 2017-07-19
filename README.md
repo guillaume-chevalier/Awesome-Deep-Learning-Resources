@@ -76,6 +76,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [François Chollet's Twitter](https://twitter.com/fchollet) - Author of Keras - has interesting Twitter posts and innovative ideas
 - [Neuralink and the Brain’s Magical Future](http://waitbutwhy.com/2017/04/neuralink.html) - Thought provoking article about the future of the brain and brain-computer interfaces.
 - [Migrating to Git LFS for Developing Deep Learning Applications with Large Files](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your private Git projects
+- [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html) - François Chollet's thoughts on the future of deep learning
 
 
 <a name="practical-resources" />
