@@ -193,6 +193,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) - Epic raw voice/music generation with new architectures based on dilated causal convolutions to capture more audio length
 - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) - 3D-GANs for 3D model generation and fun 3D furniture arithmetics from embeddings (think like word2vec word arithmetics with 3D furniture representations)
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) - Incredibly fast distributed training of a CNN
+- [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) - Best Paper Award at CVPR 2017, yielding improvements on state-of-the-art performances on CIFAR-10, CIFAR-100 and SVHN datasets
 
 
 <a name="youtube" />
