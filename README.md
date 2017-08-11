@@ -78,7 +78,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Migrating to Git LFS for Developing Deep Learning Applications with Large Files](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your private Git projects.
 - [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html) - François Chollet's thoughts on the future of deep learning.
 - [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - Grow decision trees and visualize them, infer the hidden logic behind data.
-
+- [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/) - Learn to slay down hyperparameter spaces automatically rather than by hand.
 
 <a name="practical-resources" />
 
