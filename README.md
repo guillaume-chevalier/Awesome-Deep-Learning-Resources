@@ -46,10 +46,11 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ## Online Classes
 
-- [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) - Good entry-level online class with [certificate](https://www.coursera.org/account/accomplishments/verify/DXPXHYFNGKG3). Taught by: Andrew Ng, Associate Professor, Stanford University; Chief Scientist, Baidu; Chairman and Co-founder, Coursera.
-- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Very good class covering high-level deep learning concepts, it is the logical next step after Andrew Ng's Machine Learning class.
-- [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501) - Interesting class for acquiring basic knowledge of machine learning applied to trading and some AI and finance concepts.
-- [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Interesting class about neural networks available online for free by Hugo Larochelle, yet I have watched a few of those videos.
+- [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) - Renown entry-level online class with [certificate](https://www.coursera.org/account/accomplishments/verify/DXPXHYFNGKG3). Taught by: Andrew Ng, Associate Professor, Stanford University; Chief Scientist, Baidu; Chairman and Co-founder, Coursera.
+- [Deep Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning) - New Deep Learning series of courses ([1](https://www.coursera.org/account/accomplishments/records/ZXKXMPVXFL8T), [2](https://www.coursera.org/account/accomplishments/records/9AMGUFTFXRQH), [3](https://www.coursera.org/account/accomplishments/records/J69EJSCNRCW6), 4, 5) by Andrew Ng, now with Python rather than Matlab/Octave.
+- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Good intermediate to advanced-level course covering high-level deep learning concepts, I found it helps to get creative once the basics are acquired.
+- [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501) - Interesting class for acquiring basic knowledge of machine learning applied to trading and some AI and finance concepts. I especially liked the section on Q-Learning.
+- [Neural networks class by Hugo Larochelle, Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Interesting class about neural networks available online for free by Hugo Larochelle, yet I have watched a few of those videos.
 
 
 <a name="books" />
