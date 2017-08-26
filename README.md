@@ -99,7 +99,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
 - [Hyperopt for a Keras CNN on CIFAR-100](https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100) - Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.
 - [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc&page=1&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn&sort=stars&tab=stars&utf8=%E2%9C%93) - GitHub is full of nice code samples & projects.
-- [Smoothly Blend Image Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Smooth patch merger for (semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
+- [Smoothly Blend Image Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Smooth patch merger for [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
 
 <a name="some-datasets" />
 
