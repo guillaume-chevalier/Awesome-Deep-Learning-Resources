@@ -19,7 +19,7 @@ I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built thi
 - [Papers](#papers)
   - [Recurrent Neural Networks](#recurrent-neural-networks)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
-- [YouTube](#youtube)
+- [YouTube and Videos](#youtube)
 - [Misc. Hubs and Links](#misc-hubs-and-links)
 - [License](#license)
 
@@ -199,7 +199,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 
 <a name="youtube" />
 
-## YouTube
+## YouTube and Videos
 
 - [Attention Mechanisms in Recurrent Neural Networks (RNNs) - IGGG](https://www.youtube.com/watch?v=QuvRWevJMZ4) - A talk for a reading group on attention mechanisms (Paper: Neural Machine Translation by Jointly Learning to Align and Translate).
 - [Tensor Calculus and the Calculus of Moving Surfaces](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) - Generalize properly how Tensors work, yet just watching a few videos already helps a lot to grasp the concepts.
@@ -208,7 +208,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [Computer Science](https://www.youtube.com/playlist?list=PLlp-GWNOd6m7vLOsW20xAJ81-65C-Ys6k) - Yet another YouTube playlist I composed, this time about various CS topics.
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) - Siraj has entertaining, fast-paced video tutorials about deep learning.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) - Interesting and shallow overview of some research papers, for example about WaveNet or Neural Style Transfer.
-
+- [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) - Andrew Ng interviews Geoffrey Hinton, who talks about his research and breaktroughs, and gives advice for students.
 
 <a name="misc-hubs-and-links" />
 
