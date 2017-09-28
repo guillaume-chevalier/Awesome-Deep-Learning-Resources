@@ -27,9 +27,9 @@ I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built thi
 
 ## Trends
 
-Here are the all-time [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming), from 2004 up to now, April 2017:
+Here are the all-time [Google Trends](https://www.google.ca/trends/explore?date=all&q=machine%20learning,deep%20learning,data%20science,computer%20programming), from 2004 up to now, September 2017:
 <p align="center">
-  <img src="google_trends.png" width="578" height="394" />
+  <img src="google_trends.png" />
 </p>
 
 You might also want to look at Andrej Karpathy's [new post](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106) about trends in Machine Learning research.
