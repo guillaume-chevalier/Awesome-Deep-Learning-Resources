@@ -81,6 +81,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html) - François Chollet's thoughts on the future of deep learning.
 - [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - Grow decision trees and visualize them, infer the hidden logic behind data.
 - [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/) - Learn to slay down hyperparameter spaces automatically rather than by hand.
+- [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) - Clever trick to estimate an optimal learning rate prior any single full training.
 
 <a name="practical-resources" />
 
