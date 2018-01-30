@@ -51,7 +51,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Good intermediate to advanced-level course covering high-level deep learning concepts, I found it helps to get creative once the basics are acquired.
 - [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501) - Interesting class for acquiring basic knowledge of machine learning applied to trading and some AI and finance concepts. I especially liked the section on Q-Learning.
 - [Neural networks class by Hugo Larochelle, Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Interesting class about neural networks available online for free by Hugo Larochelle, yet I have watched a few of those videos.
-
+- [Deep Learning Crash Course](https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07) - A series of mini-lectures that cover the fundamentals of machine learning, with a focus on deep learning.
 
 <a name="books" />
 
