@@ -58,8 +58,10 @@ I find that the key of intelligence and cognition is a very interesting subject 
 ## Books
 
 - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4) - The audio version is nice to listen to while commuting. This book is motivating about reverse-engineering the mind and thinking on how to code AI.
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning. 
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
+- [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/) - Introduction to Deep Learning in Python from the creator of Keras.
+- [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) - Practical introduction to Deep Learning by learning how to create an advanced Go bot.
 - [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=10&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
 
 <a name="posts-and-articles" />
@@ -92,7 +94,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 ### Librairies and Implementations
 - [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
 - [skflow](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn.
-- [Keras](https://keras.io/) - Keras is another intersting deep learning framework like TensorFlow, it is mostly high-level.
+- [Keras](https://keras.io/) - Keras is another interesting deep learning framework like TensorFlow, it is mostly high-level.
 - [carpedm20's repositories](https://github.com/carpedm20) - Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim, A.K.A. carpedm20.
 - [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) - Neural Turing Machine TensorFlow implementation.
 - [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) - Transfer learning tutorial in TensorFlow for vision from high-level embeddings of a pretrained CNN, AlexNet 2012.
@@ -191,14 +193,14 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [Going Deeper with Convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) - GoogLeNet: Appearance of "Inception" layers/modules, the idea is of parallelizing conv layers into many mini-conv of different size with "same" padding, concatenated on depth.
 - [Highway Networks](https://arxiv.org/pdf/1505.00387v2.pdf) - Highway networks: residual connections.
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) - Batch normalization (BN): to normalize a layer's output by also summing over the entire batch, and then performing a linear rescaling and shifting of a certain trainable amount.
-- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) - The U-Net is an encoder-decoder CNN that also has skip-connections, good for image segmentation at a per-pixel level. 
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) - The U-Net is an encoder-decoder CNN that also has skip-connections, good for image segmentation at a per-pixel level.
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf) - Very deep residual layers with batch normalization layers - a.k.a. "how to overfit any vision dataset with too many layers and make any vision model work properly at recognition given enough data".
 - [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261v2.pdf) - For improving GoogLeNet with residual connections.
 - [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) - Epic raw voice/music generation with new architectures based on dilated causal convolutions to capture more audio length.
 - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) - 3D-GANs for 3D model generation and fun 3D furniture arithmetics from embeddings (think like word2vec word arithmetics with 3D furniture representations).
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) - Incredibly fast distributed training of a CNN.
 - [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) - Best Paper Award at CVPR 2017, yielding improvements on state-of-the-art performances on CIFAR-10, CIFAR-100 and SVHN datasets, this new neural network architecture is named DenseNet.
-- [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) - Merges the ideas of the U-Net and the DenseNet, this new neural network is especially good for huge datasets in image segmentation. 
+- [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) - Merges the ideas of the U-Net and the DenseNet, this new neural network is especially good for huge datasets in image segmentation.
 
 
 <a name="youtube" />
