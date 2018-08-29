@@ -62,6 +62,12 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
 - [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=10&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
+- [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) - Deep Learning and the Game of Go opens up the world of deep learning and AI by teaching you to build your own Go-playing machine. 
+- [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) - Deep Learning for Search teaches you how to improve the effectiveness of your search by implementing neural network-based techniques. 
+- [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch) - PyTorch puts these superpowers in your hands, providing a comfortable Python experience that gets you started quickly and then grows with you as you—and your deep learning skills—become more sophisticated. Deep Learning with PyTorch will make that journey engaging and fun.
+- [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) - Deep Reinforcement Learning in Action teaches you the fundamental concepts and terminology of deep reinforcement learning, along with the practical skills and techniques you’ll need to implement it into your own projects.
+- [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) - Grokking Deep Reinforcement Learning introduces this powerful machine learning approach, using examples, illustrations, exercises, and crystal-clear teaching. 
+
 
 <a name="posts-and-articles" />
 
@@ -225,6 +231,9 @@ Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.o
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) - Siraj has entertaining, fast-paced video tutorials about deep learning.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) - Interesting and shallow overview of some research papers, for example about WaveNet or Neural Style Transfer.
 - [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) - Andrew Ng interviews Geoffrey Hinton, who talks about his research and breaktroughs, and gives advice for students.
+- [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion) - This interactive liveVideo course gives you a crash course in using AWS for machine learning, teaching you how to build a fully-working predictive algorithm.
+- [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion) - Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
+- [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) - Grokking Deep Learning in Motion is a new liveVideo course that takes you on a journey into the world of deep learning. Rather than just learn how to use a single library or framework, you’ll actually discover how to build these algorithms completely from scratch!
 
 <a name="misc-hubs-and-links" />
 
