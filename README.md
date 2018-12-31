@@ -1,4 +1,4 @@
-# Awesome Deep Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a rough list of my favorite deep learning resources. It has been useful to me for learning how to do deep learning, I use it for revisiting topics or for reference.
 I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built this list and got through all of the content listed here, carefully.
@@ -20,6 +20,7 @@ I ([Guillaume Chevalier](https://github.com/guillaume-chevalier)) have built thi
   - [Recurrent Neural Networks](#recurrent-neural-networks)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Attention Mechanisms](#attention-mechanisms)
+  - [Other](#other)
 - [YouTube and Videos](#youtube)
 - [Misc. Hubs and Links](#misc-hubs-and-links)
 - [License](#license)
@@ -211,6 +212,14 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf) - That yields intuition about the boundaries of what works for doing NMT within a framed seq2seq problem formulation.
 - [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram
 Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.org/pdf/1609.03499v2.pdf) used as a vocoder can be conditioned on generated Mel Spectrograms from the Tacotron 2 LSTM neural network with attention to generate neat audio from text.
+
+
+<a name="other" />
+
+### Other
+
+- [ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections](https://arxiv.org/abs/1708.00630) - Replace word embeddings by word projections in your deep neural networks, which doesn't require a pre-extracted dictionnary nor storing embedding matrices. 
+- [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer)).
 
 
 <a name="youtube" />
