@@ -85,8 +85,11 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/) - Learn to slay down hyperparameter spaces automatically rather than by hand.
 - [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) - Clever trick to estimate an optimal learning rate prior any single full training.
  - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Good for understanding the "Attention Is All You Need" (AIAYN) paper. 
- - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - Also good for understanding the "Attention Is All You Need" (AIAYN) paper. 
-
+ - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - Also good for understanding the "Attention Is All You Need" (AIAYN) paper.
+ - [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - SOTA across many NLP tasks from unsupervised pretraining on huge corpus.
+ - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) - All hail NLP's ImageNet moment. 
+ - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) - Understand the different approaches used for NLP's ImageNet moment. 
+ 
 <a name="practical-resources" />
 
 ## Practical Resources
@@ -178,7 +181,6 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [Pixel Recurrent Neural Networks](https://arxiv.org/pdf/1601.06759.pdf) - Nice for photoshop-like "content aware fill" to fill missing patches in images.
 - [Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/pdf/1603.08983v4.pdf) - Let RNNs decide how long they compute. I would love to see how well would it combines to Neural Turing Machines. Interesting interactive visualizations on the subject can be found [here](http://distill.pub/2016/augmented-rnns/).
 
-
 <a name="convolutional-neural-networks" />
 
 ### Convolutional Neural Networks
@@ -201,7 +203,6 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) - Merges the ideas of the U-Net and the DenseNet, this new neural network is especially good for huge datasets in image segmentation.
 - [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) - Use a distance metric in the loss to determine to which class does an object belongs to from a few examples.
 
-
 <a name="attention-mechanisms" />
 
 ### Attention Mechanisms
@@ -219,13 +220,12 @@ Okay, signal processing might not be directly related to deep learning, but stud
 Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.org/pdf/1609.03499v2.pdf) used as a vocoder can be conditioned on generated Mel Spectrograms from the Tacotron 2 LSTM neural network with attention to generate neat audio from text.
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (AIAYN) - Introducing multi-head self-attention neural networks with positional encoding to do sentence-level NLP without any RNN nor CNN - this paper is a must-read (also see [this explanation](http://nlp.seas.harvard.edu/2018/04/03/attention.html) and [this visualization](http://jalammar.github.io/illustrated-transformer/) of the paper). 
 
-
 <a name="other" />
 
 ### Other
 
 - [ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections](https://arxiv.org/abs/1708.00630) - Replace word embeddings by word projections in your deep neural networks, which doesn't require a pre-extracted dictionnary nor storing embedding matrices. 
-- [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer)).
+- [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) and watch [the talks' recording](https://vimeo.com/305197775)).
 - [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080) - Classify a new example from a list of other examples (without definitive categories) and with low-data per classification task, but lots of data for lots of similar classification tasks - it seems better than siamese networks. To sum up: with Matching Networks, you can optimize directly for a cosine similarity between examples (like a self-attention product would match) which is passed to the softmax directly. I guess that Matching Networks could probably be used as with negative-sampling softmax training in word2vec's CBOW or Skip-gram without having to do any context embedding lookups. 
 
 
