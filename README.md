@@ -84,6 +84,8 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - Grow decision trees and visualize them, infer the hidden logic behind data.
 - [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/) - Learn to slay down hyperparameter spaces automatically rather than by hand.
 - [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0) - Clever trick to estimate an optimal learning rate prior any single full training.
+ - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - Good for understanding the "Attention Is All You Need" (AIAYN) paper. 
+ - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) - Also good for understanding the "Attention Is All You Need" (AIAYN) paper. 
 
 <a name="practical-resources" />
 
@@ -212,6 +214,7 @@ Okay, signal processing might not be directly related to deep learning, but stud
 - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf) - That yields intuition about the boundaries of what works for doing NMT within a framed seq2seq problem formulation.
 - [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram
 Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.org/pdf/1609.03499v2.pdf) used as a vocoder can be conditioned on generated Mel Spectrograms from the Tacotron 2 LSTM neural network with attention to generate neat audio from text.
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (AIAYN) - Introducing multi-head self-attention neural networks with positional encoding to do sentence-level NLP without any RNN nor CNN - this paper is a must-read (also see [this explanation](http://nlp.seas.harvard.edu/2018/04/03/attention.html) and [this visualization](http://jalammar.github.io/illustrated-transformer/) of the paper). 
 
 
 <a name="other" />
