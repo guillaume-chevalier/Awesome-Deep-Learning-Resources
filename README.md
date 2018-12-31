@@ -106,6 +106,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Hyperopt for a Keras CNN on CIFAR-100](https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100) - Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.
 - [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc&page=1&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn&sort=stars&tab=stars&utf8=%E2%9C%93) - GitHub is full of nice code samples & projects.
 - [Smoothly Blend Image Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Smooth patch merger for [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
+- [Self Governing Neural Networks (SGNN): the Projection Layer](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) - With this, you can use words in your deep learning models without training nor loading embeddings.
 
 <a name="some-datasets" />
 
