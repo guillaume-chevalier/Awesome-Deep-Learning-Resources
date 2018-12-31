@@ -119,6 +119,8 @@ Those are resources I have found that seems interesting to develop models onto.
 - [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset.
 - [LibriSpeech ASR corpus](http://www.openslr.org/12/) - Huge free English speech dataset with balanced genders and speakers, that seems to be of high quality.
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - An awesome list of public datasets.
+- [SentEval: An Evaluation Toolkit for Universal Sentence Representations](https://arxiv.org/abs/1803.05449) - A Python framework to benchmark your sentence representations on many datasets (NLP tasks). 
+- [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476) - Another Python framework to benchmark your sentence representations on many datasets (NLP tasks).
 
 
 <a name="other-math-theory" />
