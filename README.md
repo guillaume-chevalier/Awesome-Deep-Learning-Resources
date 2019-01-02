@@ -155,7 +155,7 @@ Those are resources I have found that seems interesting to develop models onto.
 
 Okay, signal processing might not be directly related to deep learning, but studying it is interesting to have more intuition in developing neural architectures based on signal.
 
-- [Window Functions](https://en.wikipedia.org/wiki/Window_function) - Wikipedia page that lists some of the known window functions.
+- [Window Functions](https://en.wikipedia.org/wiki/Window_function) - Wikipedia page that lists some of the known window functions - note that the [Hann-Poisson window](https://en.wikipedia.org/wiki/Window_function#Hann%E2%80%93Poisson_window) is specially interesting for greedy hill-climbing algorithms (like gradient descent for example). 
 - [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) - New look on Fourier analysis.
 - [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - Animations dealing with complex numbers and wave equations.
 - [Animate Your Way to Glory, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory/) - Convergence methods in physic engines, and applied to interaction design.
