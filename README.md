@@ -241,6 +241,7 @@ Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.o
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) - Siraj has entertaining, fast-paced video tutorials about deep learning.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) - Interesting and shallow overview of some research papers, for example about WaveNet or Neural Style Transfer.
 - [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) - Andrew Ng interviews Geoffrey Hinton, who talks about his research and breaktroughs, and gives advice for students.
+- [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - Covers the basics of deep learning through using Python-based deep learning tools, including scikit-learn, Keras, and TensorFlow 2.0.
 
 <a name="misc-hubs-and-links" />
 
