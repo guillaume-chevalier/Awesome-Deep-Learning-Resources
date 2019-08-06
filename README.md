@@ -98,6 +98,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 <a name="librairies-and-implementations" />
 
 ### Librairies and Implementations
+- [Neuraxle, a framwework for machine learning pipelines](https://github.com/Neuraxio/Neuraxle) - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
 - [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
 - [skflow](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn.
 - [Keras](https://keras.io/) - Keras is another intersting deep learning framework like TensorFlow, it is mostly high-level.
