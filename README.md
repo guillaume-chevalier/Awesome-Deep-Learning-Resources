@@ -89,6 +89,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
  - [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - SOTA across many NLP tasks from unsupervised pretraining on huge corpus.
  - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) - All hail NLP's ImageNet moment. 
  - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) - Understand the different approaches used for NLP's ImageNet moment. 
+ - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) - Not only the SOLID principles are needed for doing clean code, but the furtherless known REP, CCP, CRP, ADP, SDP and SAP principles are very important for developping huge software that must be bundled in different separated packages.
  
 <a name="practical-resources" />
 
