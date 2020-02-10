@@ -63,8 +63,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
 - [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=100&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
-
-<a name="posts-and-articles" />
+- [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data/) - Manning early-access book on deep learning techniques on structured data.
 
 ## Posts and Articles
 
@@ -246,6 +245,7 @@ Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.o
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) - Siraj has entertaining, fast-paced video tutorials about deep learning.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) - Interesting and shallow overview of some research papers, for example about WaveNet or Neural Style Transfer.
 - [Geoffrey Hinton interview](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) - Andrew Ng interviews Geoffrey Hinton, who talks about his research and breaktroughs, and gives advice for students.
+- [Machine Learning, Data Science and Deep Learning with Python](https://www.coursera.org/learn/neural-networks-deep-learning/lecture/dcm5r/geoffrey-hinton-interview) - This liveVideo course covers machine learning, Tensorflow, artificial intelligence, and neural networks.
 
 <a name="misc-hubs-and-links" />
 
