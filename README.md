@@ -54,7 +54,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Machine Learning for Trading by Georgia Tech](https://www.udacity.com/course/machine-learning-for-trading--ud501) - Interesting class for acquiring basic knowledge of machine learning applied to trading and some AI and finance concepts. I especially liked the section on Q-Learning.
 - [Neural networks class by Hugo Larochelle, Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) - Interesting class about neural networks available online for free by Hugo Larochelle, yet I have watched a few of those videos.
 - [GLO-4030/7030 Apprentissage par réseaux de neurones profonds](https://ulaval-damas.github.io/glo4030/) - This is a class given by Philippe Giguère, Professor at University Laval. I especially found awesome its rare visualization of the multi-head attention mechanism, which can be contemplated at the [slide 28 of week 13's class](http://www2.ift.ulaval.ca/~pgiguere/cours/DeepLearning/09-Attention.pdf).
-- [Deep Learning & Recurrent Neural Networks](https://www.neuraxio.com/en/time-series-solution) - The most richly dense, accelerated course on the topic of Deep Learning & Recurrent Neural Networks (scroll at the end).
+- [Deep Learning & Recurrent Neural Networks (DL&RNN)](https://www.neuraxio.com/en/time-series-solution) - The most richly dense, accelerated course on the topic of Deep Learning & Recurrent Neural Networks (scroll at the end).
 
 <a name="books" />
 
