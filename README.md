@@ -48,6 +48,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ## Online Classes
 
+- **[DL&RNN Course](https://www.dl-rnn-course.neuraxio.com/start?utm_source=github_awesome) - I created this richely dense course on Deep Learning and Recurrent Neural Networks.**
 - [Machine Learning by Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) - Renown entry-level online class with [certificate](https://www.coursera.org/account/accomplishments/verify/DXPXHYFNGKG3). Taught by: Andrew Ng, Associate Professor, Stanford University; Chief Scientist, Baidu; Chairman and Co-founder, Coursera.
 - [Deep Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning) - New series of 5 Deep Learning courses by Andrew Ng, now with Python rather than Matlab/Octave, and which leads to a [specialization certificate](https://www.coursera.org/account/accomplishments/specialization/U7VNC3ZD9YD8).
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) - Good intermediate to advanced-level course covering high-level deep learning concepts, I found it helps to get creative once the basics are acquired.
