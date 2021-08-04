@@ -96,6 +96,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
  - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) - Not only the SOLID principles are needed for doing clean code, but the furtherless known REP, CCP, CRP, ADP, SDP and SAP principles are very important for developping huge software that must be bundled in different separated packages.
  - [Why do 87% of data science projects never make it into production?](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/) - Data is not to be overlooked, and communication between teams and data scientists is important to integrate solutions properly.
  - [The real reason most ML projects fail](https://towardsdatascience.com/what-is-the-main-reason-most-ml-projects-fail-515d409a161f) - Focus on clear business objectives, avoid pivots of algorithms unless you have really clean code, and be able to know when what you coded is "good enough".
+ - [SOLID Machine Learning](https://www.umaneo.com/post/the-solid-principles-applied-to-machine-learning) - The SOLID principles applied to Machine Learning.
  
 <a name="practical-resources" />
 
