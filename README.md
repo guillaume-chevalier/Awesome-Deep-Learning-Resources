@@ -67,6 +67,8 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
 - [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=100&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
+- [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - This book sets out the foundations of DL in a way that’s both useful and accessible to working practitioners.
+- [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) - Journey through the theory and practice of modern deep learning.
 
 <a name="posts-and-articles" />
 
