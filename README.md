@@ -69,8 +69,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=100&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
 - [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - This book sets out the foundations of DL in a way that’s both useful and accessible to working practitioners.
 - [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) - Journey through the theory and practice of modern deep learning.
-
-<a name="posts-and-articles" />
+- [Transfer Learning in Action](https://www.manning.com/books/transfer-learning-in-action) - Book that teaches the fundamental concepts of transfer learning and how you can easily apply them to your projects.
 
 ## Posts and Articles
 
