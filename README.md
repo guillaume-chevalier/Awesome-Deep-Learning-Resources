@@ -263,6 +263,7 @@ Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.o
 - [Naver](http://www.naver.com/) - This is a Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search.
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features.
 - [Awesome Neuraxle](https://github.com/Neuraxio/Awesome-Neuraxle) - An awesome list for Neuraxle, a ML Framework for coding clean production-level ML pipelines.
+- [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
 
 <a name="license" />
