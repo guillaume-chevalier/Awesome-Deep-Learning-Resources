@@ -70,6 +70,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - This book sets out the foundations of DL in a way that’s both useful and accessible to working practitioners.
 - [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) - Journey through the theory and practice of modern deep learning.
 - [Transfer Learning in Action](https://www.manning.com/books/transfer-learning-in-action) - Book that teaches the fundamental concepts of transfer learning and how you can easily apply them to your projects.
+- [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms) - Book that teaches how to design systems optimized for deep learning models.
 
 ## Posts and Articles
 
