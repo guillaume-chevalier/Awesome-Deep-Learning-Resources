@@ -258,6 +258,7 @@ Predictions](https://arxiv.org/pdf/1712.05884.pdf) - A [WaveNet](https://arxiv.o
 
 ## Misc. Hubs & Links
 
+- [Synthical](https://synthical.com) - AI-powered environment for Research
 - [Hacker News](https://news.ycombinator.com/news) - Maybe how I discovered ML - Interesting trends appear on that site way before they get to be a big deal.
 - [DataTau](http://www.datatau.com/) - This is a hub similar to Hacker News, but specific to data science.
 - [Naver](http://www.naver.com/) - This is a Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search.
